@@ -1,7 +1,6 @@
 ﻿# formidium-hackathon-2024
 
-# task is to create an AI engine that can predict and alert about cost anomalies as well as performance anomalies (such as unforeseen downtimes) based on all metrics.
-# Additionally, the AI engine should be capable of automatically adjusting cloud resources to prevent such events.
+# task is to create an AI engine that can predict and alert about cost anomalies as well as performance anomalies (such as unforeseen downtimes) based on all metrics. Additionally, the AI engine should be capable of automatically adjusting cloud resources to prevent such events.
 
 if we have access to realistic data, then we can use api key for the data and directly use the data set,
 
